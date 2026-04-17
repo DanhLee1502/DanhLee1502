@@ -11,4 +11,11 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://github.com/DanhLee1502" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>&nbsp;<a href="https://linkedin.com/in/danh-lê-1b95972b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>&nbsp;<a href="https://fb.com/LeThanhDanhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DanhLee1502)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danh-lê-1b95972b7)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/LeThanhDanhh)
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,cpp,docker,html,java,kafka,mysql,ps,py,qt,react&perline=12" />
+</p>
